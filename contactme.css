@@ -1,0 +1,36 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    letter-spacing: .5rem;
+    font-size: 2rem;
+    margin: 2rem;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: .2rem;
+    font-size: 1.5rem;
+    margin: 2rem;
+}
+
+.navbar-dark .navbar-brand{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    font-weight: bolder;
+    color: #b7b4b4;
+}
+
+.brand-g{
+    color: #272c50;
+}
+
+.contact-me{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}

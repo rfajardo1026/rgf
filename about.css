@@ -1,0 +1,82 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    letter-spacing: .5rem;
+    font-size: 2rem;
+    margin: 2rem;
+}
+
+h2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin: 3%;
+}
+
+.navbar-dark .navbar-brand{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    font-weight: bolder;
+    color: #b7b4b4;
+}
+
+.brand-g{
+    color: #272c50;
+}
+
+.profile{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.personal img{
+    width: 20%;
+    border: 1px solid black;
+    border-radius: 100%;
+    padding: 5px;
+    margin-top: 3rem;
+}
+
+
+
+/* EDUCATIONAL ATTAINMENT */
+
+.educational{
+    padding-bottom: 50px;
+    margin-bottom: 80px;
+}
+
+.educ-content{
+    width: 50%;
+    margin: auto;
+    text-align: left;
+}
+
+.educ-content img{
+    float: left;
+    width: 30%;
+}
+
+.school{
+    font-size: 1.5rem;
+}
+
+.work-exp{
+    padding-bottom: 80px;
+}
+
+.work-exp img{
+    width: 30%;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+.ulitc{
+    margin-top: 40px;
+}
